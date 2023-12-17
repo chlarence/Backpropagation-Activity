@@ -1,0 +1,14 @@
+C:\Users\chlar\source\repos\Calle-BPnn\bin\Debug\Calle-BPnn.exe.config
+C:\Users\chlar\source\repos\Calle-BPnn\bin\Debug\Calle-BPnn.exe
+C:\Users\chlar\source\repos\Calle-BPnn\bin\Debug\Calle-BPnn.pdb
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle-BPnn.csproj.AssemblyReference.cache
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle_BPnn.Form1.resources
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle_BPnn.Properties.Resources.resources
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle-BPnn.csproj.GenerateResource.cache
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle-BPnn.csproj.CoreCompileInputs.cache
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle-BPnn.exe
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle-BPnn.pdb
+C:\Users\chlar\source\repos\Calle-BPnn\bin\Debug\Calle-BPnn.exe.manifest
+C:\Users\chlar\source\repos\Calle-BPnn\bin\Debug\Calle-BPnn.application
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle-BPnn.exe.manifest
+C:\Users\chlar\source\repos\Calle-BPnn\obj\Debug\Calle-BPnn.application
